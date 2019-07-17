@@ -46,6 +46,7 @@ curl 'http://localhost:8080/cart?userId=1' \
 
 ## Pending tasks
 - Automated tests
+- Dependency Injection framework?
 - Autorization / Authentication
 - Check coroutines and asynchrony
 - Value objects validations
