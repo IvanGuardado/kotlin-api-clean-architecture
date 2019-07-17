@@ -1,5 +1,5 @@
 ## About this
-I've created this project in order to learn how to create a REST API using a clean architecture approach in Kotlin. This is my first Kotlin project so don't trust too much in the solution. I'd appreciate you create an issue or send a PR if you see any improvement or posible bugs.
+I've created this project in order to learn how to create a REST API using a 🎯 Clean Architecture approach using Kotlin. This is my first Kotlin project so don't trust too much in the solution. I'd appreciate you create an issue or send a PR if you see any improvement or posible bugs.
 
 ## Run
 ```
