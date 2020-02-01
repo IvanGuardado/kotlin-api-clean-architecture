@@ -50,3 +50,5 @@ curl 'http://localhost:8080/cart?userId=1' \
 - Autorization / Authentication
 - Check coroutines and asynchrony
 - Value objects validations
+
+Just testing
